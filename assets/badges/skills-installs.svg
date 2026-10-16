@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="124" viewBox="0 0 500 124" role="img" aria-labelledby="title desc">
+  <title id="title">14.1K installs on skills.sh</title>
+  <desc id="desc">App Store Screenshots adoption milestone on skills.sh.</desc>
+  <rect x="1" y="1" width="498" height="122" rx="19" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="21" y="25" width="74" height="74" rx="18" fill="#f3edff"/>
+  <g fill="none" stroke="#51299b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 42v30m-11-11 11 11 11-11"/>
+    <path d="M40 77v7h36v-7"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#48248f">
+    <text x="114" y="37" font-size="16" font-weight="700" letter-spacing="1.4">SKILLS.SH</text>
+    <text x="114" y="73" font-size="31" font-weight="700">14.1K installs</text>
+    <text x="114" y="99" font-size="14" fill="#76668d">App Store Screenshots</text>
+  </g>
+</svg>
